@@ -54,4 +54,4 @@ def for_iterator(number_of_times)
   for x in ringe
     puts phrase
 end
-end
+#end
